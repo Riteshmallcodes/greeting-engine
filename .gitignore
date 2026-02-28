@@ -1,0 +1,19 @@
+.env
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS / temp
+*.tmp
+*.bak
+
+# Upload artifacts
+uploads/wishes/*
+uploads/generated/*
+!uploads/.htaccess
